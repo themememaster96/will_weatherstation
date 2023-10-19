@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Current Weather</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Current Weather</h1>
+        <div class="weather-info">
+            <p>Temperature: <span id="temperature"></span></p>
+            <p>Humidity: <span id="humidity"></span></p>
+        </div>
+    </div>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js'></script>
+    <script>
+        var socket = io();
+
+        socket.on('data', function(data) {
+            console.log(data);
+            document.getElementById('humidity').textContent = data.humidity;
+            document.getElementById('temperature').textContent = data.temperature;
+        });
+    </script> 
+</body>
+</html>
