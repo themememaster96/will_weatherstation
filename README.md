@@ -36,24 +36,46 @@ Jumper Wires:
 
 The wires that I used in my assignment are male-to-male jumper wires and they are used to join any development board with a male header pin to other development boards that also have a male connector. These are straightforward cables with connector pins on both ends that enable you to link two locations together.
 
-Arudino Install:
+Arudino Install and Run:
 
 ![download (4)](https://github.com/themememaster96/will_weatherstation/assets/141981108/2a3dd4f1-11ea-4a53-8e79-273bf3a1dc3b)
 
-Step 1: Go to the Arduino Installation Website
+Step 1: Go to the Arduino Installation Website [https://www.arduino.cc/en/Main/Software?_gl=1*1w5n1cd*_ga*MTExMTg3MjgyMC4xNjkxMTI1MDE2*_ga_NEXN8H46L5*MTY5Nzc4Mjc1Ni40LjAuMTY5Nzc4Mjc1Ni4wLjAuMA..](url)
+
 Step 2: Click on the Download Link
+
 Step 3: Begin the Download
+
 Step 4: Begin the Installation Process
+
 Step 5: Select What to Install
+
 Step 6: Choose the Installation Path
+
 Step 7: Finish the Installation
+
+Step 8: Once in Arduino create a new sketch and select ESP32 Dev Module as your board.
+
+Step 9: After inserting all your code press run and your code will run. 
 
 Visual Studio Code Install:
 
 ![download (7)](https://github.com/themememaster96/will_weatherstation/assets/141981108/a4d13d41-52dd-4ca2-98f1-318cf705f685)
 
-Step 1: Download VS code from here.
+Step 1: Download Visual Studio Code [https://code.visualstudio.com/download](Here).
+
 Step 2: Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). Then, run the file – it will only take a minute. Accept the agreement and click “next.”
+
+Resources Used:
+
+[https://www.youtube.com/watch?v=__FSpGHx9Ow 
+](URL)
+
+[https://www.youtube.com/watch?v=e7jt7yLZu7s](url)
+
+[https://www.youtube.com/watch?v=-AvF2TsB2GI](url)
+
+[https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/](url)
 
 
 
