@@ -30,7 +30,7 @@ ESP32:
 
 The ESP32 that I used is a low-cost, low-power microcontroller that has built-in Bluetooth and Wi-Fi. It is the replacement for the ESP8266, a low-cost Wi-Fi microchip with significantly less functionality.
 
-Male to Male Wires:
+Jumper Wires:
 
 ![download (6)](https://github.com/themememaster96/will_weatherstation/assets/141981108/96706185-0aed-4812-80dd-70f39a96b63c)
 
